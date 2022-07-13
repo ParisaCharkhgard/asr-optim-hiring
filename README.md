@@ -1,3 +1,12 @@
+## Running
+To run the agorithm, use Python 3.7+ as follows:
+
+`python3 <path_to_main.py> <path_to_instance.txt>`
+
+or if in the project directory:
+
+`python3 main.py instance.txt`
+
 ## Problem description 
 You are the director of Clever and Very Complex Machines (or short: CVCM), a company producing advanced machinery using even more advanced machinery. 
 
